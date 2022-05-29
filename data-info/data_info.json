@@ -1,0 +1,35 @@
+{
+  "train_len_mean": 81.74,
+  "train_len_std": 103.42,
+  "train_speed_lim_mean": 9.51,
+  "train_speed_lim_std": 8.97,
+  "train_wid_mean": 69.09,
+  "train_wid_std": 32.26,
+  "train_time_gap_mean": 8.13,
+  "train_time_gap_std": 11.18,
+  "train_time_mean": 8.13,
+  "train_time_std": 11.18,
+  "train_avg_speed_mean": 11.9749,
+  "train_avg_speed_std": 31.4631,
+  "train_gt_eta_time_mean": 699.164,
+  "train_gt_eta_time_std": 450.765,
+
+  "test_len_mean": 81.74,
+  "test_len_std": 103.42,
+  "test_speed_lim_mean": 9.51,
+  "test_speed_lim_std": 8.97,
+  "test_wid_mean": 69.09,
+  "test_wid_std": 32.26,
+  "test_time_gap_mean": 8.13,
+  "test_time_gap_std": 11.18,
+  "test_time_mean": 8.13,
+  "test_time_std": 11.18,
+  "test_avg_speed_mean": 11.9749,
+  "test_avg_speed_std": 31.4631,
+  "test_gt_eta_time_mean": 699.164,
+  "test_gt_eta_time_std": 450.765
+  }
+
+
+
+
